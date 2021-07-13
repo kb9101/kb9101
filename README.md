@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kb9101
+- 👋 Hi, I’m Kush Bhatia a.k.a @kb9101
 - 👀 I’m interested in Python and all it's applications! I basically love to code in Python!
 - 🌱 I’m currently learning Web Development using Python and Django Framework.
 - 💞️ I’m looking to collaborate on any Python Projects as it'll help me to learn a lot.
